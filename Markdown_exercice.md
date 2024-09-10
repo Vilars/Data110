@@ -1,10 +1,14 @@
 # Author
 ## Tete R Assignon
 9/9/2024
+
 # Markdown formating
 **be focus**
 
+*mousse*
+
 ***Data Visualization exercice***
+
 # Link
 [**Montgomery College**](https://www.montgomerycollege.edu)
 
@@ -13,6 +17,7 @@
 1. Read 
 2. practice python
 3. talk to people in the domain
+   
   **Plan trip** 
 - get passport
 - buy ticket
@@ -27,13 +32,14 @@
 > Conficius
 
 # Code
-
 ```I'm thrilled to learn new things```
+`markdown`
 
 # Tables
 |language|french|English|
 |:-------|------|-------|
 |difficulty|can be difficult|relatively easy|
+
 # Task list
 - [x] take math 117
 - [ ] learn python
