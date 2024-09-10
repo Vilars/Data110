@@ -27,7 +27,8 @@
 > Conficius
 
 # Code
-print(I'm thrilled to learn new things)
+
+```I'm thrilled to learn new things```
 
 # Tables
 |language|french|English|
