@@ -13,8 +13,8 @@
 [**Montgomery College**](https://www.montgomerycollege.edu)
 
 # List
-**to do**
-1. Read 
+**To do**
+1. read 
 2. practice python
 3. talk to people in the domain
    
@@ -36,7 +36,7 @@
 `markdown`
 
 # Tables
-|language|french|English|
+|Language|French|English|
 |:-------|------|-------|
 |difficulty|can be difficult|relatively easy|
 
